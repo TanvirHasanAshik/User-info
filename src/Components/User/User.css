@@ -1,0 +1,15 @@
+.userContainer{
+    display: flex;
+}
+.userInfo{
+    border-right: 1px solid lightgray;
+    width: 50%;
+    margin: 100px;
+    padding: 10px;
+    color: rgb(236, 211, 211);
+}
+.cartContainer{
+    margin: 70px;
+    padding: 10px;
+    color: rgb(236, 211, 211);
+}

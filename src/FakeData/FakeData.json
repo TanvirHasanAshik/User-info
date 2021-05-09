@@ -1,0 +1,107 @@
+[
+    {
+      "id": 0,
+      "name": "Sanford",
+      "email": "sanfordarnold@kenegy.com",
+      "phone": "(903) 409-2828",
+      "image": "../img/1.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Autumn",
+      "email": "autumnarnold@kenegy.com",
+      "phone": "(854) 581-3386",
+      "image": "./img/2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Trudy",
+      "email": "trudyarnold@kenegy.com",
+      "phone": "(943) 433-3836",
+      "image": "./img/3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hanson",
+      "email": "hansonarnold@kenegy.com",
+      "phone": "(866) 441-3968",
+      "image": "./img/4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Veronica",
+      "email": "veronicaarnold@kenegy.com",
+      "phone": "(816) 462-3900",
+      "image": "./img/7.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Skinner",
+      "email": "skinnerarnold@kenegy.com",
+      "phone": "(867) 450-3125",
+      "image": "./img/6.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Carolina",
+      "email": "carolinaarnold@kenegy.com",
+      "phone": "(926) 459-2384",
+      "image": "./img/7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Gillespie",
+      "email": "gillespiearnold@kenegy.com",
+      "phone": "(815) 439-3694",
+      "image": "./img/1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mai",
+      "email": "maiarnold@kenegy.com",
+      "phone": "(969) 567-2116",
+      "image": "./img/2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Lynn",
+      "email": "lynnarnold@kenegy.com",
+      "phone": "(878) 524-3994",
+      "image": "./img/3.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Noble",
+      "email": "noblearnold@kenegy.com",
+      "phone": "(955) 451-2310",
+      "image": "./img/4.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Lorna",
+      "email": "lornaarnold@kenegy.com",
+      "phone": "(815) 466-2178",
+      "image": "./img/4.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Sutton",
+      "email": "suttonarnold@kenegy.com",
+      "phone": "(817) 430-2469",
+      "image": "./img/6.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Golden",
+      "email": "goldenarnold@kenegy.com",
+      "phone": "(832) 426-3738",
+      "image": "./img/7.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Potts",
+      "email": "pottsarnold@kenegy.com",
+      "phone": "(931) 596-2012",
+      "image": "./img/6.jpg"
+    }
+  ]
